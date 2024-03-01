@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+✨ I am intrigued by software engineering, design thinking, and cats!
+😄 Pronouns: he/him
+
 <!--
 **yearofglad/yearofglad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
