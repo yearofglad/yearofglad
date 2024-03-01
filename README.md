@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ✨ I am intrigued by software engineering, design thinking, and cats!
+
 ⚡ Fun fact: I graduate college in 2025! Very soon...
+
 😄 Pronouns: he/him
 
 <!--
