@@ -2,7 +2,7 @@
 
 ✨ I am intrigued by software engineering, design thinking, and cats!
 
-⚡ Fun fact: I graduate college in 2025! Very soon...
+⚡ Fun fact: I graduate college in 2025! woah
 
 😄 Pronouns: he/him
 
