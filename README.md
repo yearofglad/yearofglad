@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-✨ I am intrigued by software engineering, design thinking, and cats!
+✨ I am intrigued by design thinking and the transition debate.
 
-⚡ Fun fact: I graduate college in 2025! woah
+⚡ Fun fact: I graduate college in 2025. woah
 
 😄 Pronouns: he/him
 
